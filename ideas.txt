@@ -2,3 +2,7 @@ CONTROLLS
 
 Lik ima nekaj glavnih abilityjev (lok, nož, razno magijo), ki jih lahko kombinira. Aktivira jih z a, s, d, f, g ??? 
 Premikanje z puščicami, skoki space, odpiranje stvari z h. Da objekt primeš pritisneš r, za zemjevid pa q.
+
+KRATEK OPIS
+
+3D špil
