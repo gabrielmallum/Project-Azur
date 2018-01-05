@@ -1,7 +1,14 @@
 CONTROLLS
 
-Lik ima nekaj glavnih abilityjev (lok, nož, razno magijo), ki jih lahko kombinira. Aktivira jih z a, s, d, f, g ??? 
-Premikanje z puščicami, skoki space, odpiranje stvari z h. Da objekt primeš pritisneš r, za zemjevid pa q.
+AZUR
+
+W, A, S, D for movement, SPACE for jumps.
+Weapon controls on COMPUTER MOUSE;
+Bow - LEFT click - arrow
+RIGHT click - rope
+
+
+
 
 KRATEK OPIS
 
