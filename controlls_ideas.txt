@@ -1,24 +1,25 @@
 AZUR
-W, A, S, D for movement, SPACE for jumps.
-
-Weapon controls on COMPUTER MOUSE;
-Bow - LEFT click - arrow
-RIGHT click - rope
-
-SCROLL WHEEL 1x UP
-LEFT click - knife attack
-RIGHT click - knife throw
+  W, A, S, D for movement, SPACE for jumps.
+  Weapon controls on COMPUTER MOUSE;
+  Bow - LEFT click - arrow
+  RIGHT click - rope
+  SCROLL WHEEL 1x UP
+  LEFT click - knife attack
+  RIGHT click - knife throw
 
 EGG SPIRIT
-Movements with COMPUTER MOUSE SPACE for jumps.
+  Movements with COMPUTER MOUSE SPACE for jumps.
+  Weapons;
+  S - fire
+  D - light
+  F - water
+  G - air
+  X - frost
+  C - shadow
+  V - metal
+  B - spirit
 
-Weapons;
-S - fire
-D - light
-F - water
-G - air
-X - frost
-C - shadow
-V - metal
-B - spirit
-Premikanje z puščicami, skoki space, odpiranje stvari z h. Da objekt primeš pritisneš r, za zemjevid pa q.
+BASIC
+  R - open/close chest
+  E - pick up
+  Q - open/close "map"
