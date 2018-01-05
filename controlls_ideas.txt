@@ -10,7 +10,7 @@ LEFT click - knife attack
 RIGHT click - knife throw
 
 EGG SPIRIT
-Movements with COMPUTER MOUSE
+Movements with COMPUTER MOUSE SPACE for jumps.
 
 Weapons;
 S - fire
