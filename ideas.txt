@@ -3,13 +3,10 @@ CONTROLLS
 AZUR
 
 W, A, S, D for movement, SPACE for jumps.
+
 Weapon controls on COMPUTER MOUSE;
 Bow - LEFT click - arrow
 RIGHT click - rope
-
-
-
-
-KRATEK OPIS
-
-2D/3D lookfromtheside thing kukr Trine
+SCROLL WHEEL 1x up
+LEFT click - knife attack
+RIGHT click - knife throw
